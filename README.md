@@ -1,3 +1,3 @@
-# IMAGE ENCRYPTION System using Chaotic Maps
+# Image Encryption System using Chaotic Maps
 PROJECT1---->CHAOTIC SEQUENCE
 
