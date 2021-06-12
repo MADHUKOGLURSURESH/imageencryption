@@ -1,2 +1,3 @@
-# imageencryption
-PROJECT1
+# IMAGE ENCRYPTION System using Chaotic Maps
+PROJECT1---->CHAOTIC SEQUENCE
+
